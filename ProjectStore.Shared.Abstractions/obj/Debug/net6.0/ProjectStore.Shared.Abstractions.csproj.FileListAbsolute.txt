@@ -1,0 +1,12 @@
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\bin\Debug\net6.0\ProjectStore.Shared.Abstractions.deps.json
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\bin\Debug\net6.0\ProjectStore.Shared.Abstractions.dll
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\bin\Debug\net6.0\ProjectStore.Shared.Abstractions.pdb
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\obj\Debug\net6.0\ProjectStore.Shared.Abstractions.csproj.AssemblyReference.cache
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\obj\Debug\net6.0\ProjectStore.Shared.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\obj\Debug\net6.0\ProjectStore.Shared.Abstractions.AssemblyInfoInputs.cache
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\obj\Debug\net6.0\ProjectStore.Shared.Abstractions.AssemblyInfo.cs
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\obj\Debug\net6.0\ProjectStore.Shared.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\obj\Debug\net6.0\ProjectStore.Shared.Abstractions.dll
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\obj\Debug\net6.0\refint\ProjectStore.Shared.Abstractions.dll
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\obj\Debug\net6.0\ProjectStore.Shared.Abstractions.pdb
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Abstractions\obj\Debug\net6.0\ref\ProjectStore.Shared.Abstractions.dll

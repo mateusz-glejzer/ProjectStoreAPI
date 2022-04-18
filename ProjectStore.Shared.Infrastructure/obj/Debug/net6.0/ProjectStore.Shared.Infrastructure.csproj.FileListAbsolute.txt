@@ -1,0 +1,15 @@
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\bin\Debug\net6.0\ProjectStore.Shared.Infrastructure.deps.json
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\bin\Debug\net6.0\ProjectStore.Shared.Infrastructure.dll
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\bin\Debug\net6.0\ProjectStore.Shared.Infrastructure.pdb
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\bin\Debug\net6.0\ProjectStore.Shared.Abstractions.dll
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\bin\Debug\net6.0\ProjectStore.Shared.Abstractions.pdb
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\obj\Debug\net6.0\ProjectStore.Shared.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\obj\Debug\net6.0\ProjectStore.Shared.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\obj\Debug\net6.0\ProjectStore.Shared.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\obj\Debug\net6.0\ProjectStore.Shared.Infrastructure.AssemblyInfo.cs
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\obj\Debug\net6.0\ProjectStore.Shared.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\obj\Debug\net6.0\ProjectStore.Shared.Infrastructure.csproj.CopyComplete
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\obj\Debug\net6.0\ProjectStore.Shared.Infrastructure.dll
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\obj\Debug\net6.0\refint\ProjectStore.Shared.Infrastructure.dll
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\obj\Debug\net6.0\ProjectStore.Shared.Infrastructure.pdb
+C:\Users\MateuszGlejzer\RiderProjects\ProjectStore\ProjectStore.Shared.Infrastructure\obj\Debug\net6.0\ref\ProjectStore.Shared.Infrastructure.dll
