@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SltceGItBtcyHCuCEaEFB4sdEUsIL1wCNWeE3MI9hJv2dy79JWVl1Ln1JS0FgOhTcqvCnvyX7n4wczVjQbrUVw==",
+  "dgSpecHash": "WtUXRzWUSE4kF63HeePQvxuqMwS+xTV3XljFkSyqZmJEPwYH3VnOTFsEihg4to822lBXpJYV0rNsTQW4yS3IhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MateuszGlejzer\\RiderProjects\\ProjectStore\\ProjectStore.Shared.Abstractions\\ProjectStore.Shared.Abstractions.csproj",
+  "projectFilePath": "C:\\Users\\papie\\RiderProjects\\ProjectStoreAPI\\ProjectStore.Shared.Abstractions\\ProjectStore.Shared.Abstractions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MateuszGlejzer\\.nuget\\packages\\": {}
+    "C:\\Users\\papie\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MateuszGlejzer\\RiderProjects\\ProjectStore\\ProjectStore.Shared.Abstractions\\ProjectStore.Shared.Abstractions.csproj",
+      "projectUniqueName": "C:\\Users\\papie\\RiderProjects\\ProjectStoreAPI\\ProjectStore.Shared.Abstractions\\ProjectStore.Shared.Abstractions.csproj",
       "projectName": "ProjectStore.Shared.Abstractions",
-      "projectPath": "C:\\Users\\MateuszGlejzer\\RiderProjects\\ProjectStore\\ProjectStore.Shared.Abstractions\\ProjectStore.Shared.Abstractions.csproj",
-      "packagesPath": "C:\\Users\\MateuszGlejzer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MateuszGlejzer\\RiderProjects\\ProjectStore\\ProjectStore.Shared.Abstractions\\obj\\",
+      "projectPath": "C:\\Users\\papie\\RiderProjects\\ProjectStoreAPI\\ProjectStore.Shared.Abstractions\\ProjectStore.Shared.Abstractions.csproj",
+      "packagesPath": "C:\\Users\\papie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\papie\\RiderProjects\\ProjectStoreAPI\\ProjectStore.Shared.Abstractions\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\MateuszGlejzer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\papie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

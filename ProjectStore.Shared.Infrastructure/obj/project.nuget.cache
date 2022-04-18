@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r/ZrTsM4GUg4BcwgfC/cYeXnroRudVfF5l7lxJBj2T4DULF8vyqmNUczJMuk0MfyGByVTrfQY9ig5kxyS9h12Q==",
+  "dgSpecHash": "Zv500dJw5tEZpr1i7gn5KKeUqZbVUN2XVW8z42/xHxSAuStvsgTCFZGSPMwxRJyf2d6f5XHdYUOGG8e0uhS7wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MateuszGlejzer\\RiderProjects\\ProjectStore\\ProjectStore.Shared.Infrastructure\\ProjectStore.Shared.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\papie\\RiderProjects\\ProjectStoreAPI\\ProjectStore.Shared.Infrastructure\\ProjectStore.Shared.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
